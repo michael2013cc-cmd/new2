@@ -32,6 +32,7 @@
 | C3 利率敏感性 | [C3-interest-rate-sensitivity.md](C3-interest-rate-sensitivity.md) | 已结论 2026-10-03 |
 | C4 个人视角收敛 | [C4-personal-convergence.md](C4-personal-convergence.md) | 已结论 2026-10-03 |
 | 补核记录（★★★直核轮） | [verification-log-20261003.md](verification-log-20261003.md) | 2026-10-03 |
+| 补核记录（第二轮 ★★★直核） | [verification-log-20261017.md](verification-log-20261017.md) | 2026-10-17 |
 
 ## 命名约定
 
