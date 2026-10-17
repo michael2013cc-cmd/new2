@@ -162,6 +162,7 @@
 - `modules/`：每模块一个研究文件（子单元为章节），命名如 `B3-cost-pressure-channels.md`
 - `modules/README.md`：索引
 - `modules/verification-log-20261003.md`：★★★补核轮记录（终稿引用的事实以此为准）
+- `falsification-casebook.md`：判例集《看起来成立的产业叙事：五个证伪现场》（成品 v1，2026-10-18；终稿 §五 的可迁移产出扩写，五判例+口径工具包+五问使用规则）
 - `tools/evidence-gate.js` + `tools/README.md`：证据门禁最小原型（R1–R6 规则、自测判例 12/12、两域扫描结果与域适配结论；观察清单已转 cron，任务 ID 见 tools/README）
 
 ## 状态表
