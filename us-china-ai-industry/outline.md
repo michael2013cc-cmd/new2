@@ -9,6 +9,20 @@
 1. **用 AI 激活中国产业链**：判断、修正与具体机会。
 2. **美国遏制的性质**：不是"瞎胡闹制造混乱"，而是有预谋、有组织、有方法的战略竞争——压低中国前沿技术上限、重构对美的非对称依赖、把供应链政治安全化。附加假设：近期资源、能源、运价、利率飙升在对华出口形成系统性压力，进而影响制造业、创新与 AI 发展（→ B3 专项核实）。
 
+## 五分钟阅读路径（给新读者）
+
+| 你有 | 读这些 | 得到什么 |
+|------|--------|---------|
+| 5 分钟 | [final-report.md](final-report.md) §一（总结论）+ §三（机会清单命运表） | 结论是什么 |
+| 15 分钟 | + §四（机制层）+ §六（未决与复核点） | 论证骨架与诚实边界 |
+| 关心"美国到底在做什么" | [B1](modules/B1-containment-toolbox.md) 工具箱 → [B2](modules/B2-three-goals.md) 三大目标 → [B3](modules/B3-cost-pressure-channels.md) 渠道矩阵 | 主线二全景 |
+| 关心"机会在哪、怎么排序" | [final-report.md](final-report.md) §三 逐行，按行内"详见"下钻 A 系列模块 | 主线一论证 |
+| 关心方法论可迁移什么 | [b4-attribution-discipline.md](b4-attribution-discipline.md) 操作手册 → [falsification-casebook.md](falsification-casebook.md) 五个证伪现场 | 研究纪律本身 |
+| 关心"数字可不可信" | [verification-log-20261017.md](modules/verification-log-20261017.md)（最新台账）+ 各模块"数据核对记录"节 | 证据分级现场 |
+| 想复现全链 | [article.md](article.md) 原文 → [my-analysis.md](my-analysis.md) 评析 → 本文件（纲领）→ modules/ | 从假设到结论 |
+
+一句话导航：**结论看终稿，证据看模块，方法看 B4 成文与判例集，进度看 PROGRESS.md。**
+
 ## 子单元统一模板
 
 每个子单元研究时按此模板产出：
@@ -163,6 +177,7 @@
 - `modules/README.md`：索引
 - `modules/verification-log-20261003.md`：★★★补核轮记录（终稿引用的事实以此为准）
 - `falsification-casebook.md`：判例集《看起来成立的产业叙事：五个证伪现场》（成品 v1，2026-10-18；终稿 §五 的可迁移产出扩写，五判例+口径工具包+五问使用规则）
+- `b4-attribution-discipline.md`：B4 归因纪律独立成文（成品 v1，2026-10-18；三测试+证据三级+口径八查+表述三要素+对称执行+应用全景+一页纸清单）
 - `tools/evidence-gate.js` + `tools/README.md`：证据门禁最小原型（R1–R6 规则、自测判例 12/12、两域扫描结果与域适配结论；观察清单已转 cron，任务 ID 见 tools/README）
 
 ## 状态表

@@ -34,6 +34,7 @@
 | 补核记录（★★★直核轮） | [verification-log-20261003.md](verification-log-20261003.md) | 2026-10-03 |
 | 补核记录（第二轮 ★★★直核） | [verification-log-20261017.md](verification-log-20261017.md) | 2026-10-17 |
 | 判例集（写作成品） | [../falsification-casebook.md](../falsification-casebook.md) | 成品 v1（2026-10-18） |
+| B4 独立成文（写作成品） | [../b4-attribution-discipline.md](../b4-attribution-discipline.md) | 成品 v1（2026-10-18） |
 
 ## 命名约定
 
